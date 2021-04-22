@@ -1,0 +1,14 @@
+selenium 做web程序最好的自动化测试框架之一 实用化最广泛 支持java C# python JSP JS谷歌的开发团队进行维护
+主流浏览器对其进行支持 UI自动化测试
+2004 IE浏览器出现的问题只能用IE测试工具解决 但FIREFOX上只能进行手动化测试 就写了 selenium ide写到1.0就结束了
+2007 谷歌团队推出webdriv2er 基础JS对浏览器操作 但没有API 但selenium有很强的API
+webdriver+selenium1.0=selenium2.0 2.53.6 匹配firefox35 driver
+2016.10 selenium3.0有了自己的生态系统 浏览器的driver由厂商自己提供 之前由谷歌开发提供
+
+appium 支持ios 安卓的UI级别的测试 之前苹果和安卓都有自己的测试代码
+
+
+
+
+
+

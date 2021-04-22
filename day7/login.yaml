@@ -1,0 +1,17 @@
+---
+"url":"http://localhost:5000/login"
+"body":'{
+          "password":"admin",
+          "sex":"男",
+          "age":10
+        }'
+
+---
+"url":"http://localhost:5000/login"
+"body":'{
+          "password":"admin",
+          "sex":"男",
+          "age":10
+        }'
+
+---
